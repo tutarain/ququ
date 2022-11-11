@@ -9,7 +9,7 @@ author      ddgksf2013
 [rewrite_local]
 
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=hotWords url script-response-body https://github.com/tutarain/ququ/main/jd_json.js
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=hotSearchTerms url script-response-body https://github.com/dtutarain/ququ/main/jd_json.js
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=hotSearchTerms url script-response-body https://github.com/tutarain/ququ/main/jd_json.js
 
 [mitm]
 
