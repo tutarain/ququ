@@ -37,30 +37,7 @@ IP-CIDR,116.211.202.206/32,StreamingSE
 IP-CIDR,116.211.202.216/32,StreamingSE
 
 
-#>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Bahamut
-# ~ KKTV
-USER-AGENT,KKTV*,Bahamut
-USER-AGENT,com.kktv.ios.kktv*,Bahamut
-DOMAIN-SUFFIX,kktv.com.tw,Bahamut
-DOMAIN-SUFFIX,kktv.me,Bahamut
-DOMAIN,kktv-theater.kk.stream,Bahamut
-# ~ Bahamut 
-USER-AGENT,Anime*,Bahamut
-DOMAIN-SUFFIX,bahamut.com.tw,Bahamut
-DOMAIN-SUFFIX,gamer.com.tw,Bahamut
-DOMAIN,gamer-cds.cdn.hinet.net,Bahamut
-DOMAIN,gamer2-cds.cdn.hinet.net,Bahamut
-# ~ Manhuaren
-DOMAIN-KEYWORD,manhuaren,Bahamut
-HOST-SUFFIX, cdnmanhua.net, Bahamut
-HOST-SUFFIX, cdndm5.com, Bahamut
-HOST-KEYWORD, manhuagui, Bahamut
-# ~ Spotify 
-USER-AGENT,Spotify*,Bahamut
-DOMAIN-SUFFIX,pscdn.co,Bahamut
-DOMAIN-SUFFIX,scdn.co,Bahamut
-DOMAIN-SUFFIX,spotify.com,Bahamut
-DOMAIN-SUFFIX,spoti.fi,Bahamut
+
 
 #>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Youtube
 # ~ Youtube
